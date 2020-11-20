@@ -10,6 +10,7 @@ choco install jdk8 -y
 choco install notepadplusplus -y
 choco install obs-studio -y
 choco install spotify -y
+choco install teamspeak -y
 choco install vscode -y
 choco install vlc -y
 choco install winrar -y
