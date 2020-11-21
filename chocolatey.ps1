@@ -1,13 +1,15 @@
+choco install avastfreeantivirus -y
 choco install avidemux -y
 choco install brave -y
 choco install discord -y
 choco install googlechrome -y
+choco install intellijidea-community -y
 choco install lightshot -y
 choco install logitech-webcam-software -y
-choco install intellijidea-community -y
 choco install javaruntime -y
 choco install jdk8 -y
 choco install notepadplusplus -y
+choco install nvidia-display-driver
 choco install obs-studio -y
 choco install spotify -y
 choco install teamspeak -y
