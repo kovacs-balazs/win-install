@@ -17,4 +17,3 @@ choco install vscode -y
 choco install vlc -y
 choco install winrar -y
 choco install winscp -y
-choco install x-mouse-button-control -y
